@@ -1,9 +1,20 @@
 {
 	"auto_complete": true,
+	"font_face": "Ubuntu Mono",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_bold"
+	],
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"Vintage"
+		"CMake",
+		"Search Stack Overflow",
+		"Vintage",
+		"sublemacspro"
 	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
 	"translate_tabs_to_spaces": true
 }

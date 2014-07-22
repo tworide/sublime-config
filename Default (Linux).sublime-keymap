@@ -6,4 +6,11 @@
     { "keys": ["super+ctrl+w"], "command": "close" },
     { "keys": ["f7"], "command": "git_status" },
     { "keys": ["f8"], "command": "build" },
+
+
+
+    // Emacs like line navigation
+    { "keys": ["ctrl+a"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+    { "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "eol", "extend": false} }
+
 ]

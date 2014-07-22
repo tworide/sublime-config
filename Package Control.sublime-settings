@@ -1,14 +1,20 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Bootstrap 3 Snippets",
+		"CMake",
 		"Djaneiro",
 		"Dust.js",
 		"Emmet",
 		"LaTeXTools",
 		"LESS",
 		"OmniMarkupPreviewer",
+		"Python Flake8 Lint",
+		"Python PEP8 Autoformat",
 		"Restructured Text (RST) Snippets",
+		"Search in Project",
+		"Search Stack Overflow",
 		"sublemacspro",
 		"SublimeGit",
 		"Terminal"
