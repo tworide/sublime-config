@@ -1,4 +1,5 @@
 {
 
-    "lint_on_save": false
+    "lint_on_save": true,
+    "pep8_max_line_length": 120,
 }
